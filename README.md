@@ -58,4 +58,3 @@ Repository layout
 - `configs/` — configuration files (e.g. `mosquitto.conf`)
 - `src/` — project source code
 
-If you want, I can add more detailed, step-by-step guides for each component.
